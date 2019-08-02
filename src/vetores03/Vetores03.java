@@ -26,6 +26,7 @@ public class Vetores03 {
         
         for(int i=0;i<nomes.length;i++){
           System.out.println(nomes[i]);
+          System.out.println("boa sorte ramuja");
         }
         
         //ou de forma mais facil
